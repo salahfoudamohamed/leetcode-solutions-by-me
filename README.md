@@ -7,15 +7,8 @@ This repository is part of my journey to master data structures, algorithms, and
 
 ## 📁 Structure
 
-leetcode-solutions/
-├── Easy/
-│ ├── 1768-merge-strings-alternately.py
-│ └── ...
-├── Medium/
-│ └── ...
-├── Hard/
-│ └── ...
-├── README.md
+<pre><code>## 📁 Structure <pre> leetcode-solutions/ ├── Easy/ │ ├── 1768-merge-strings-alternately.py │ ├── 0389-find-the-difference.py │ └── ... ├── Medium/ │ └── ... ├── Hard/ │ └── ... ├── README.md </pre>
+</code></pre>
 
 ---
 
