@@ -1,3 +1,3 @@
-#!/bin/bash
-echo "🔄 Running auto update for progress tracker..."
+@echo off
+echo 🔄 Running auto update for progress tracker...
 python update_progress.py
