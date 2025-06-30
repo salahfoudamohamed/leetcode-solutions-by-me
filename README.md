@@ -5,13 +5,6 @@ This repository is part of my journey to master data structures, algorithms, and
 
 ---
 
-## 📁 Structure
-
-<pre><code>## 📁 Structure <pre> leetcode-solutions/ ├── Easy/ │ ├── 1768-merge-strings-alternately.py │ ├── 0389-find-the-difference.py │ └── ... ├── Medium/ │ └── ... ├── Hard/ │ └── ... ├── README.md </pre>
-</code></pre>
-
----
-
 ## 🔥 Problem Solving Goals
 
 - ✅ Strengthen DSA & algorithm thinking  
@@ -32,6 +25,6 @@ This repository is part of my journey to master data structures, algorithms, and
 
 ## 📬 Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/salahfouda)
+- 💼 [LinkedIn](https://www.linkedin.com/in/salah-fouda-186b02291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🧠 [Kaggle](https://www.kaggle.com/salahfouda)
-- 🐙 GitHub: [salahfouda](https://github.com/salahfouda)
+- 🐙 [GitHub](https://github.com/salahfoudamohamed)
