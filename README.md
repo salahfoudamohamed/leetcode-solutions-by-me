@@ -1,9 +1,27 @@
 # 🧠 LeetCode Solutions by Salah Fouda
 
-Welcome to my curated collection of LeetCode solutions with clean code and clear explanations.  
-This repository is part of my journey to master data structures, algorithms, and problem-solving.
+This repository contains my personal solutions to LeetCode problems.  
+Each problem is solved in Python with clear structure and naming.
 
----
+## 📁 Structure
+
+<pre>
+leetcode-solutions/
+├── Easy/
+│   ├── 0389-find-the-difference.py
+│   ├── 1768-merge-strings-alternately.py
+│   └── ...
+├── Medium/
+│   └── ...
+├── Hard/
+│   └── ...
+├── organize.py
+├── README.md
+</pre>
+
+## ✅ Naming Convention
+
+Each file is named as:
 
 ## 🔥 Problem Solving Goals
 
