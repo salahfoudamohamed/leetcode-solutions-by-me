@@ -19,10 +19,6 @@ leetcode-solutions/
 ├── README.md
 </pre>
 
-## ✅ Naming Convention
-
-Each file is named as:
-
 ## 🔥 Problem Solving Goals
 
 - ✅ Strengthen DSA & algorithm thinking  
